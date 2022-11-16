@@ -7,3 +7,6 @@ python app.py
 ```
 
 Really very simple and straightforwad 2 page web app. 
+
+
+Retrieves results using google books api.
